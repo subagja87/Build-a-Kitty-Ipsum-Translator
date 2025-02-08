@@ -1,0 +1,12 @@
+[410ns] Shutting down all processes 
+[571.93µs] Terminating process supervisor with PID 36 (state: S, cmdlind: [supervisor run] <nil>). 
+[16.509249ms] Terminating main process errored: waitid: no child processes 
+[17.025789ms] Terminating process node with PID 153 (state: S, cmdlind: [/ide/node /ide/out/bootstrap-fork --type=ptyHost --logsPath /workspace/.vscode-remote/data/logs/20250207T222228] <nil>). 
+[17.031049ms] Terminating process bash with PID 15796 (state: S, cmdlind: [/bin/bash --init-file /ide/out/vs/workbench/contrib/terminal/common/scripts/shellIntegration-bash.sh] <nil>). 
+[17.093239ms] Terminating process node with PID 72 (state: R, cmdlind: [/ide/node /ide/out/server-main.js --log=info --install-builtin-extension gitpod.gitpod-theme --install-builtin-extension github.vscode-pull-request-github --port 23000 --host 0.0.0.0 --without-connection-token --server-data-dir /workspace/.vscode-remote --do-not-sync --start-server] <nil>). 
+[17.030539ms] Terminating process bash with PID 164 (state: S, cmdlind: [/bin/bash --init-file /ide/out/vs/workbench/contrib/terminal/common/scripts/shellIntegration-bash.sh] <nil>). 
+[17.150329ms] Terminating main process errored: waitid: no child processes 
+[17.249869ms] Terminating main process errored: waitid: no child processes 
+[17.451789ms] Terminating main process errored: waitid: no child processes 
+[52.023355ms] Terminating main process errored: waitid: no child processes 
+[53.720625ms] Finished shutting down all processes. 

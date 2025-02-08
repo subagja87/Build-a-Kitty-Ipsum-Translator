@@ -1,0 +1,201 @@
+2025-02-06 12:24:55.725 [warning] /home/gitpod/.ssh/config: ENOENT: no such file or directory, open '/home/gitpod/.ssh/config'
+2025-02-06 12:24:55.725 [info] Activation> Extension version: 0.102.0
+2025-02-06 12:24:58.897 [info] Looking for git repository
+2025-02-06 12:24:58.897 [info] Found 0 repositories during activation
+2025-02-06 12:24:58.897 [info] Git repository found, initializing review manager and pr tree view.
+2025-02-06 12:24:58.901 [info] Registering git provider
+2025-02-06 12:24:58.901 [info] Review+0> Validate state in progress
+2025-02-06 12:24:58.901 [info] Review+0> Validating state...
+2025-02-06 12:24:59.319 [info] Found GitHub remote for folder /workspace/project
+2025-02-06 12:24:59.649 [info] Trying to use globalState for assignableUsers.
+2025-02-06 12:24:59.761 [info] Review+0> No matching pull request metadata found locally for current branch main
+2025-02-06 12:24:59.771 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2025-02-06 12:25:00.562 [info] Using globalState assignableUsers for 1.
+2025-02-06 12:25:01.053 [info] Repo state for file:///workspace/project changed.
+2025-02-06 12:25:01.053 [info] Repo file:///workspace/project has already been setup.
+2025-02-06 12:28:33.788 [info] Review+0> Validate state in progress
+2025-02-06 12:28:33.788 [info] Review+0> Validating state...
+2025-02-06 12:28:34.398 [info] Found GitHub remote for folder /workspace/project
+2025-02-06 12:28:34.399 [info] Using in-memory cached assignable users.
+2025-02-06 12:28:34.414 [info] Review+0> No matching pull request metadata found locally for current branch main
+2025-02-06 12:28:34.424 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2025-02-06 12:28:38.821 [info] Review+0> Validate state in progress
+2025-02-06 12:28:38.821 [info] Review+0> Validating state...
+2025-02-06 12:28:39.166 [info] Found GitHub remote for folder /workspace/project
+2025-02-06 12:28:39.167 [info] Using in-memory cached assignable users.
+2025-02-06 12:28:39.177 [info] Review+0> No matching pull request metadata found locally for current branch main
+2025-02-06 12:28:39.186 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2025-02-06 12:30:54.987 [info] Review+0> Validate state in progress
+2025-02-06 12:30:54.987 [info] Review+0> Validating state...
+2025-02-06 12:30:55.286 [info] Found GitHub remote for folder /workspace/project
+2025-02-06 12:30:55.286 [info] Using in-memory cached assignable users.
+2025-02-06 12:30:55.300 [info] Review+0> No matching pull request metadata found locally for current branch main
+2025-02-06 12:30:55.307 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2025-02-06 12:31:12.590 [info] Review+0> Validate state in progress
+2025-02-06 12:31:12.590 [info] Review+0> Validating state...
+2025-02-06 12:31:12.989 [info] Found GitHub remote for folder /workspace/project
+2025-02-06 12:31:12.989 [info] Using in-memory cached assignable users.
+2025-02-06 12:31:13.001 [info] Review+0> No matching pull request metadata found locally for current branch main
+2025-02-06 12:31:13.008 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2025-02-06 12:32:34.672 [info] Review+0> Validate state in progress
+2025-02-06 12:32:34.672 [info] Review+0> Validating state...
+2025-02-06 12:32:34.950 [info] Found GitHub remote for folder /workspace/project
+2025-02-06 12:32:34.950 [info] Using in-memory cached assignable users.
+2025-02-06 12:32:34.963 [info] Review+0> No matching pull request metadata found locally for current branch main
+2025-02-06 12:32:34.970 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2025-02-06 12:32:39.697 [info] Review+0> Validate state in progress
+2025-02-06 12:32:39.697 [info] Review+0> Validating state...
+2025-02-06 12:32:39.975 [info] Found GitHub remote for folder /workspace/project
+2025-02-06 12:32:39.975 [info] Using in-memory cached assignable users.
+2025-02-06 12:32:39.984 [info] Review+0> No matching pull request metadata found locally for current branch main
+2025-02-06 12:32:39.991 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2025-02-06 12:34:52.900 [info] Review+0> Validate state in progress
+2025-02-06 12:34:52.900 [info] Review+0> Validating state...
+2025-02-06 12:34:53.213 [info] Found GitHub remote for folder /workspace/project
+2025-02-06 12:34:53.214 [info] Using in-memory cached assignable users.
+2025-02-06 12:34:53.223 [info] Review+0> No matching pull request metadata found locally for current branch main
+2025-02-06 12:34:53.230 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2025-02-06 12:34:57.927 [info] Review+0> Validate state in progress
+2025-02-06 12:34:57.927 [info] Review+0> Validating state...
+2025-02-06 12:34:58.476 [info] Found GitHub remote for folder /workspace/project
+2025-02-06 12:34:58.477 [info] Using in-memory cached assignable users.
+2025-02-06 12:34:58.487 [info] Review+0> No matching pull request metadata found locally for current branch main
+2025-02-06 12:34:58.494 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2025-02-06 12:36:44.429 [info] Review+0> Validate state in progress
+2025-02-06 12:36:44.429 [info] Review+0> Validating state...
+2025-02-06 12:36:44.743 [info] Found GitHub remote for folder /workspace/project
+2025-02-06 12:36:44.744 [info] Using in-memory cached assignable users.
+2025-02-06 12:36:44.766 [info] Review+0> No matching pull request metadata found locally for current branch main
+2025-02-06 12:36:44.774 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2025-02-06 12:36:49.471 [info] Review+0> Validate state in progress
+2025-02-06 12:36:49.472 [info] Review+0> Validating state...
+2025-02-06 12:36:50.029 [info] Found GitHub remote for folder /workspace/project
+2025-02-06 12:36:50.029 [info] Using in-memory cached assignable users.
+2025-02-06 12:36:50.038 [info] Review+0> No matching pull request metadata found locally for current branch main
+2025-02-06 12:36:50.044 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2025-02-06 12:40:30.822 [info] Review+0> Validate state in progress
+2025-02-06 12:40:30.822 [info] Review+0> Validating state...
+2025-02-06 12:40:31.102 [info] Found GitHub remote for folder /workspace/project
+2025-02-06 12:40:31.103 [info] Using in-memory cached assignable users.
+2025-02-06 12:40:31.112 [info] Review+0> No matching pull request metadata found locally for current branch main
+2025-02-06 12:40:31.118 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2025-02-06 12:40:35.846 [info] Review+0> Validate state in progress
+2025-02-06 12:40:35.846 [info] Review+0> Validating state...
+2025-02-06 12:40:36.126 [info] Found GitHub remote for folder /workspace/project
+2025-02-06 12:40:36.126 [info] Using in-memory cached assignable users.
+2025-02-06 12:40:36.135 [info] Review+0> No matching pull request metadata found locally for current branch main
+2025-02-06 12:40:36.142 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2025-02-06 12:41:12.320 [info] Review+0> Validate state in progress
+2025-02-06 12:41:12.320 [info] Review+0> Validating state...
+2025-02-06 12:41:12.617 [info] Found GitHub remote for folder /workspace/project
+2025-02-06 12:41:12.618 [info] Using in-memory cached assignable users.
+2025-02-06 12:41:12.632 [info] Review+0> No matching pull request metadata found locally for current branch main
+2025-02-06 12:41:12.643 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2025-02-06 12:41:17.348 [info] Review+0> Validate state in progress
+2025-02-06 12:41:17.348 [info] Review+0> Validating state...
+2025-02-06 12:41:17.656 [info] Found GitHub remote for folder /workspace/project
+2025-02-06 12:41:17.656 [info] Using in-memory cached assignable users.
+2025-02-06 12:41:17.670 [info] Review+0> No matching pull request metadata found locally for current branch main
+2025-02-06 12:41:17.677 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2025-02-06 12:55:56.418 [info] Review+0> Validate state in progress
+2025-02-06 12:55:56.418 [info] Review+0> Validating state...
+2025-02-06 12:55:57.275 [info] Found GitHub remote for folder /workspace/project
+2025-02-06 12:55:57.276 [info] Using in-memory cached assignable users.
+2025-02-06 12:55:57.310 [info] Review+0> No matching pull request metadata found locally for current branch main
+2025-02-06 12:55:57.330 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2025-02-06 12:56:23.504 [info] Review+0> Validate state in progress
+2025-02-06 12:56:23.504 [info] Review+0> Validating state...
+2025-02-06 12:56:23.815 [info] Found GitHub remote for folder /workspace/project
+2025-02-06 12:56:23.816 [info] Using in-memory cached assignable users.
+2025-02-06 12:56:23.828 [info] Review+0> No matching pull request metadata found locally for current branch main
+2025-02-06 12:56:23.835 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2025-02-06 12:56:28.531 [info] Review+0> Validate state in progress
+2025-02-06 12:56:28.531 [info] Review+0> Validating state...
+2025-02-06 12:56:28.865 [info] Found GitHub remote for folder /workspace/project
+2025-02-06 12:56:28.865 [info] Using in-memory cached assignable users.
+2025-02-06 12:56:28.877 [info] Review+0> No matching pull request metadata found locally for current branch main
+2025-02-06 12:56:28.888 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2025-02-06 12:59:06.404 [info] Review+0> Validate state in progress
+2025-02-06 12:59:06.404 [info] Review+0> Validating state...
+2025-02-06 12:59:06.805 [info] Found GitHub remote for folder /workspace/project
+2025-02-06 12:59:06.805 [info] Using in-memory cached assignable users.
+2025-02-06 12:59:06.816 [info] Review+0> No matching pull request metadata found locally for current branch main
+2025-02-06 12:59:06.824 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2025-02-06 12:59:11.428 [info] Review+0> Validate state in progress
+2025-02-06 12:59:11.428 [info] Review+0> Validating state...
+2025-02-06 12:59:11.747 [info] Found GitHub remote for folder /workspace/project
+2025-02-06 12:59:11.749 [info] Using in-memory cached assignable users.
+2025-02-06 12:59:11.760 [info] Review+0> No matching pull request metadata found locally for current branch main
+2025-02-06 12:59:11.768 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2025-02-06 12:59:39.737 [info] Review+0> Validate state in progress
+2025-02-06 12:59:39.737 [info] Review+0> Validating state...
+2025-02-06 12:59:40.051 [info] Found GitHub remote for folder /workspace/project
+2025-02-06 12:59:40.051 [info] Using in-memory cached assignable users.
+2025-02-06 12:59:40.067 [info] Review+0> No matching pull request metadata found locally for current branch main
+2025-02-06 12:59:40.075 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2025-02-06 12:59:44.771 [info] Review+0> Validate state in progress
+2025-02-06 12:59:44.771 [info] Review+0> Validating state...
+2025-02-06 12:59:45.232 [info] Found GitHub remote for folder /workspace/project
+2025-02-06 12:59:45.232 [info] Using in-memory cached assignable users.
+2025-02-06 12:59:45.253 [info] Review+0> No matching pull request metadata found locally for current branch main
+2025-02-06 12:59:45.260 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2025-02-06 13:02:33.498 [info] Review+0> Validate state in progress
+2025-02-06 13:02:33.529 [info] Review+0> Validating state...
+2025-02-06 13:02:34.244 [info] Found GitHub remote for folder /workspace/project
+2025-02-06 13:02:34.246 [info] Using in-memory cached assignable users.
+2025-02-06 13:02:34.264 [info] Review+0> No matching pull request metadata found locally for current branch main
+2025-02-06 13:02:34.276 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2025-02-06 13:02:38.579 [info] Review+0> Validate state in progress
+2025-02-06 13:02:38.579 [info] Review+0> Validating state...
+2025-02-06 13:02:39.137 [info] Found GitHub remote for folder /workspace/project
+2025-02-06 13:02:39.138 [info] Using in-memory cached assignable users.
+2025-02-06 13:02:39.163 [info] Review+0> No matching pull request metadata found locally for current branch main
+2025-02-06 13:02:39.174 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2025-02-06 13:04:25.551 [info] Review+0> Validate state in progress
+2025-02-06 13:04:25.552 [info] Review+0> Validating state...
+2025-02-06 13:04:26.165 [info] Found GitHub remote for folder /workspace/project
+2025-02-06 13:04:26.166 [info] Using in-memory cached assignable users.
+2025-02-06 13:04:26.181 [info] Review+0> No matching pull request metadata found locally for current branch main
+2025-02-06 13:04:26.198 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2025-02-06 13:06:00.546 [info] Review+0> Validate state in progress
+2025-02-06 13:06:00.551 [info] Review+0> Validating state...
+2025-02-06 13:06:00.884 [info] Found GitHub remote for folder /workspace/project
+2025-02-06 13:06:00.885 [info] Using in-memory cached assignable users.
+2025-02-06 13:06:00.903 [info] Review+0> No matching pull request metadata found locally for current branch main
+2025-02-06 13:06:00.914 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2025-02-06 13:06:09.381 [info] Review+0> Validate state in progress
+2025-02-06 13:06:09.381 [info] Review+0> Validating state...
+2025-02-06 13:06:09.792 [info] Found GitHub remote for folder /workspace/project
+2025-02-06 13:06:09.793 [info] Using in-memory cached assignable users.
+2025-02-06 13:06:09.808 [info] Review+0> No matching pull request metadata found locally for current branch main
+2025-02-06 13:06:09.815 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2025-02-06 13:07:49.801 [info] Review+0> Validate state in progress
+2025-02-06 13:07:49.801 [info] Review+0> Validating state...
+2025-02-06 13:07:50.300 [info] Found GitHub remote for folder /workspace/project
+2025-02-06 13:07:50.300 [info] Using in-memory cached assignable users.
+2025-02-06 13:07:50.309 [info] Review+0> No matching pull request metadata found locally for current branch main
+2025-02-06 13:07:50.318 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2025-02-06 13:10:31.995 [info] Review+0> Validate state in progress
+2025-02-06 13:10:31.995 [info] Review+0> Validating state...
+2025-02-06 13:10:32.309 [info] Found GitHub remote for folder /workspace/project
+2025-02-06 13:10:32.309 [info] Using in-memory cached assignable users.
+2025-02-06 13:10:32.318 [info] Review+0> No matching pull request metadata found locally for current branch main
+2025-02-06 13:10:32.325 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2025-02-06 13:10:52.856 [info] Review+0> Validate state in progress
+2025-02-06 13:10:52.856 [info] Review+0> Validating state...
+2025-02-06 13:10:53.414 [info] Found GitHub remote for folder /workspace/project
+2025-02-06 13:10:53.414 [info] Using in-memory cached assignable users.
+2025-02-06 13:10:53.428 [info] Review+0> No matching pull request metadata found locally for current branch main
+2025-02-06 13:10:53.436 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2025-02-06 13:15:10.146 [info] Review+0> Validate state in progress
+2025-02-06 13:15:10.146 [info] Review+0> Validating state...
+2025-02-06 13:15:10.698 [info] Found GitHub remote for folder /workspace/project
+2025-02-06 13:15:10.698 [info] Using in-memory cached assignable users.
+2025-02-06 13:15:10.709 [info] Review+0> No matching pull request metadata found locally for current branch main
+2025-02-06 13:15:10.716 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2025-02-06 13:15:15.172 [info] Review+0> Validate state in progress
+2025-02-06 13:15:15.172 [info] Review+0> Validating state...
+2025-02-06 13:15:15.735 [info] Found GitHub remote for folder /workspace/project
+2025-02-06 13:15:15.735 [info] Using in-memory cached assignable users.
+2025-02-06 13:15:15.747 [info] Review+0> No matching pull request metadata found locally for current branch main
+2025-02-06 13:15:15.753 [info] Review+0> No matching pull request metadata found on GitHub for current branch main

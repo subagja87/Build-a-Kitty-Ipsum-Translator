@@ -1,0 +1,125 @@
+FAILED TEST LOG
+  ✘ You should enter the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(correctCommand && correctRedirect && /freeCodeCamp/g.test(fileContents))
+
+at Context.<anonymous> (test/320.test.js:18:5)
+FAILED TEST LOG
+  ✘ You should enter the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(lastCommand[0] === 'wc' && correctFlag && correctArg)
+
+at Context.<anonymous> (test/350.test.js:10:5)
+FAILED TEST LOG
+  ✘ You should enter the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(lastCommand[0] === 'wc' && correctFlag && correctArg)
+
+at Context.<anonymous> (test/350.test.js:10:5)
+FAILED TEST LOG
+  ✘ You should enter the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(lastCommand[0] === 'wc' && correctFlag && correctArg)
+
+at Context.<anonymous> (test/360.test.js:10:5)
+FAILED TEST LOG
+  ✘ You should enter the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(lastCommand[0] === 'wc' && correctFlag && correctArg)
+
+at Context.<anonymous> (test/370.test.js:10:5)
+FAILED TEST LOG
+  ✘ You should enter the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(lastCommand[0] === 'cat' && lastCommand[1] === 'kitty_ipsum_1.txt' && lastCommand[2].op === '|' && lastCommand[3] === 'wc')
+
+at Context.<anonymous> (test/390.test.js:8:5)
+FAILED TEST LOG
+  ✘ You should enter the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(lastCommand[0] === 'wc' && lastCommand[1].op === '<' && lastCommand[2] === 'kitty_ipsum_1.txt')
+
+at Context.<anonymous> (test/400.test.js:8:5)
+FAILED TEST LOG
+  ✘ You should enter the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(correctCommand && /~~ kitty_ipsum_1\.txt info ~~/g.test(fileContents))
+
+at Context.<anonymous> (test/420.test.js:15:5)
+FAILED TEST LOG
+  ✘ You should enter the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(correctCommand && /~~ kitty_ipsum_1\.txt info ~~/g.test(fileContents))
+
+at Context.<anonymous> (test/420.test.js:15:5)
+FAILED TEST LOG
+  ✘ You should enter the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(correctCommand && /27/.test(fileContents))
+
+at Context.<anonymous> (test/440.test.js:15:5)
+FAILED TEST LOG
+  ✘ You should enter the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(correctCommand && /27/.test(fileContents))
+
+at Context.<anonymous> (test/440.test.js:15:5)
+FAILED TEST LOG
+  ✘ You should enter the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(correctCommand && /27/.test(fileContents))
+
+at Context.<anonymous> (test/440.test.js:15:5)
+FAILED TEST LOG
+  ✘ You should enter the suggested command
+
+TypeError: Cannot read properties of undefined (reading 'op')
+at Context.<anonymous> (test/440.test.js:13:230)
+FAILED TEST LOG
+  ✘ You should enter the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(correctCommand && /27/.test(fileContents))
+
+at Context.<anonymous> (test/440.test.js:15:5)
+FAILED TEST LOG
+  ✘ You should enter the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(correctCommand && /27/.test(fileContents))
+
+at Context.<anonymous> (test/440.test.js:15:5)
+FAILED TEST LOG
+  ✘ You should enter the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(correctCommand && /1738/.test(fileContents))
+
+at Context.<anonymous> (test/480.test.js:15:5)

@@ -1,0 +1,349 @@
+FAILED TEST LOG
+  ✘ You should enter the suggested command
+
+TypeError: Cannot read properties of undefined (reading 'op')
+at Context.<anonymous> (test/810.test.js:16:345)
+FAILED TEST LOG
+  ✘ You should enter the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(correctCommand && /~~ kitty_ipsum_2\.txt info ~~/g.test(fileContents))
+
+at Context.<anonymous> (test/860.test.js:15:5)
+FAILED TEST LOG
+  ✘ You should enter the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(correctCommand && /28/.test(fileContents))
+
+at Context.<anonymous> (test/880.test.js:15:5)
+FAILED TEST LOG
+  ✘ You should enter the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(correctCommand && /307/.test(fileContents))
+
+at Context.<anonymous> (test/900.test.js:15:5)
+FAILED TEST LOG
+  ✘ You should enter the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(correctCommand && /307/.test(fileContents))
+
+at Context.<anonymous> (test/900.test.js:15:5)
+FAILED TEST LOG
+  ✘ You should enter the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(correctCommand && /307/.test(fileContents))
+
+at Context.<anonymous> (test/900.test.js:15:5)
+FAILED TEST LOG
+  ✘ You should enter the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(correctFlags && filteredCommand[0] === 'grep' && (filteredCommand[1] === 'meow[a-z]*' || filteredCommand[1].pattern === 'meow[a-z]*') && filteredCommand[2] === 'kitty_ipsum_2.txt')
+
+at Context.<anonymous> (test/925.test.js:10:5)
+FAILED TEST LOG
+  ✘ You should enter the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(correctCommands && correctFlags && /\s+4\s+8\s+12\s+20\s+24\s+25\s+28\s*$/.test(fileContents))
+
+at Context.<anonymous> (test/960.test.js:11:5)
+FAILED TEST LOG
+  ✘ Your script file should have the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/cat[ \t]+\$1[ \t]*;?\s*$/g.test(scriptFile))
+
+at Context.<anonymous> (test/1040.test.js:8:5)
+FAILED TEST LOG
+  ✘ Your script file should have the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/cat[ \t]+\$1[ \t]*;?\s*$/g.test(scriptFile))
+
+at Context.<anonymous> (test/1040.test.js:8:5)
+FAILED TEST LOG
+  ✘ Your script file should have the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/cat[ \t]+\$1[ \t]*;?\s*$/g.test(scriptFile))
+
+at Context.<anonymous> (test/1040.test.js:8:5)
+FAILED TEST LOG
+  ✘ Your script file should have the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/cat[ \t]+\$1[ \t]*\|[ \t]*sed[ \t]+('|")s\/catnip\/dogchow\/\1[ \t]*;?\s*$/g.test(scriptFile))
+
+at Context.<anonymous> (test/1080.test.js:8:5)
+FAILED TEST LOG
+  ✘ Your script file should have the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/cat[ \t]+\$1[ \t]*\|[ \t]*sed[ \t]+('|")s\/catnip\/dogchow\/\1[ \t]*;?\s*$/g.test(scriptFile))
+
+at Context.<anonymous> (test/1080.test.js:8:5)
+FAILED TEST LOG
+  ✘ Your script file should have the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/cat[ \t]+\$1[ \t]*\|[ \t]*sed[ \t]+('|")s\/catnip\/dogchow\/\1[ \t]*;?\s*$/g.test(scriptFile))
+
+at Context.<anonymous> (test/1080.test.js:8:5)
+FAILED TEST LOG
+  ✘ Your script file should have the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/cat[ \t]+\$1[ \t]*\|[ \t]*sed[ \t]+('|")s\/catnip\/dogchow\/\1[ \t]*;?\s*$/g.test(scriptFile))
+
+at Context.<anonymous> (test/1080.test.js:8:5)
+FAILED TEST LOG
+  ✘ Your script file should have the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/cat[ \t]+\$1[ \t]*\|[ \t]*sed[ \t]+('|")s\/catnip\/dogchow\/\1[ \t]*;?\s*$/g.test(scriptFile))
+
+at Context.<anonymous> (test/1080.test.js:8:5)
+FAILED TEST LOG
+  ✘ Your script file should have the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/cat[ \t]+\$1[ \t]*\|[ \t]*sed[ \t]+('|")s\/catnip\/dogchow\/\1[ \t]*;?\s*$/g.test(scriptFile))
+
+at Context.<anonymous> (test/1080.test.js:8:5)
+FAILED TEST LOG
+  ✘ You should enter the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(correctFlag && filteredCommand[0] === './translate.sh' && (filteredCommand[1] === 'kitty_ipsum_1.txt' || filteredCommand[1] === './kitty_ipsum_1.txt') && filteredCommand[2].op === '|' && filteredCommand[3] === 'grep' && (filteredCommand[4] === 'dogchow' || filteredCommand[4].pattern === 'dogchow'))
+
+at Context.<anonymous> (test/1100.test.js:10:5)
+FAILED TEST LOG
+  ✘ Your script file should have the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/cat[ \t]+\$1[ \t]*\|[ \t]*sed[ \t]+('|")[ \t]*s\/catnip\/dogchow\/[ \t]*;[ \t]*s\/cat\/dog\/[ \t]*;?[ \t]*\1[ \t]*;?\s*$/g.test(scriptFile))
+
+at Context.<anonymous> (test/1120.test.js:8:5)
+FAILED TEST LOG
+  ✘ Your script file should have the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/cat[ \t]+\$1[ \t]*\|[ \t]*sed[ \t]+('|")[ \t]*s\/catnip\/dogchow\/[ \t]*;[ \t]*s\/cat\/dog\/[ \t]*;?[ \t]*\1[ \t]*;?\s*$/g.test(scriptFile))
+
+at Context.<anonymous> (test/1120.test.js:8:5)
+FAILED TEST LOG
+  ✘ Your script file should have the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/cat[ \t]+\$1[ \t]*\|[ \t]*sed[ \t]+('|")[ \t]*s\/catnip\/dogchow\/[ \t]*;[ \t]*s\/cat\/dog\/[ \t]*;?[ \t]*\1[ \t]*;?\s*$/g.test(scriptFile))
+
+at Context.<anonymous> (test/1120.test.js:8:5)
+FAILED TEST LOG
+  ✘ Your script file should have the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/cat[ \t]+\$1[ \t]*\|[ \t]*sed[ \t]+('|")[ \t]*s\/catnip\/dogchow\/[ \t]*;[ \t]*s\/cat\/dog\/[ \t]*;?[ \t]*\1[ \t]*;?\s*$/g.test(scriptFile))
+
+at Context.<anonymous> (test/1120.test.js:8:5)
+FAILED TEST LOG
+  ✘ Your script file should have the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/cat[ \t]+\$1[ \t]*\|[ \t]*sed[ \t]+('|")[ \t]*s\/catnip\/dogchow\/[ \t]*;[ \t]*s\/cat\/dog\/[ \t]*;?[ \t]*\1[ \t]*;?\s*$/g.test(scriptFile))
+
+at Context.<anonymous> (test/1120.test.js:8:5)
+FAILED TEST LOG
+  ✘ Your script file should have the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/cat[ \t]+\$1[ \t]*\|[ \t]*sed[ \t]+('|")[ \t]*s\/catnip\/dogchow\/[ \t]*;[ \t]*s\/cat\/dog\/[ \t]*;?[ \t]*\1[ \t]*;?\s*$/g.test(scriptFile))
+
+at Context.<anonymous> (test/1120.test.js:8:5)
+FAILED TEST LOG
+  ✘ Your script file should have the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/cat[ \t]+\$1[ \t]*\|[ \t]*sed[ \t]+('|")[ \t]*s\/catnip\/dogchow\/[ \t]*;[ \t]*s\/cat\/dog\/[ \t]*;?[ \t]*\1[ \t]*;?\s*$/g.test(scriptFile))
+
+at Context.<anonymous> (test/1120.test.js:8:5)
+FAILED TEST LOG
+  ✘ You should enter the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(correctFlag && filteredCommand[0] === './translate.sh' && (filteredCommand[1] === 'kitty_ipsum_1.txt' || filteredCommand[1] === './kitty_ipsum_1.txt') && filteredCommand[2].op === '|' && filteredCommand[3] === 'grep' && (filteredCommand[4] === 'dog[a-z]*' || filteredCommand[4].pattern === 'dog[a-z]*'))
+
+at Context.<anonymous> (test/1130.test.js:10:5)
+FAILED TEST LOG
+  ✘ You should enter the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(correctFlag && filteredCommand[0] === './translate.sh' && (filteredCommand[1] === 'kitty_ipsum_1.txt' || filteredCommand[1] === './kitty_ipsum_1.txt') && filteredCommand[2].op === '|' && filteredCommand[3] === 'grep' && (filteredCommand[4] === 'dog[a-z]*' || filteredCommand[4].pattern === 'dog[a-z]*'))
+
+at Context.<anonymous> (test/1130.test.js:10:5)
+FAILED TEST LOG
+  ✘ Your script file should have the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/cat[ \t]+\$1[ \t]*\|[ \t]*sed[ \t]+('|")[ \t]*s\/catnip\/dogchow\/[ \t]*;[ \t]*s\/cat\/dog\/[ \t]*;[ \t]*s\/meow\/woof\/[ \t]*;?[ \t]*\1[ \t]*;?\s*$/g.test(scriptFile))
+
+at Context.<anonymous> (test/1140.test.js:8:5)
+FAILED TEST LOG
+  ✘ Your script file should have the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/cat[ \t]+\$1[ \t]*\|[ \t]*sed[ \t]+('|")[ \t]*s\/catnip\/dogchow\/[ \t]*;[ \t]*s\/cat\/dog\/[ \t]*;[ \t]*s\/meow\/woof\/[ \t]*;?[ \t]*\1[ \t]*;?\s*$/g.test(scriptFile))
+
+at Context.<anonymous> (test/1140.test.js:8:5)
+FAILED TEST LOG
+  ✘ Your script file should have the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/cat[ \t]+\$1[ \t]*\|[ \t]*sed[ \t]+('|")[ \t]*s\/catnip\/dogchow\/[ \t]*;[ \t]*s\/cat\/dog\/[ \t]*;[ \t]*s\/meow\/woof\/[ \t]*;?[ \t]*\1[ \t]*;?\s*$/g.test(scriptFile))
+
+at Context.<anonymous> (test/1140.test.js:8:5)
+FAILED TEST LOG
+  ✘ Your script file should have the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/cat[ \t]+\$1[ \t]*\|[ \t]*sed[ \t]+('|")[ \t]*s\/catnip\/dogchow\/[ \t]*;[ \t]*s\/cat\/dog\/[ \t]*;[ \t]*s\/meow\/woof\/[ \t]*;?[ \t]*\1[ \t]*;?\s*$/g.test(scriptFile))
+
+at Context.<anonymous> (test/1140.test.js:8:5)
+FAILED TEST LOG
+  ✘ Your script file should have the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/cat[ \t]+\$1[ \t]*\|[ \t]*sed[ \t]+('|")[ \t]*s\/catnip\/dogchow\/[ \t]*;[ \t]*s\/cat\/dog\/[ \t]*;[ \t]*s\/meow\/woof\/[ \t]*;?[ \t]*\1[ \t]*;?\s*$/g.test(scriptFile))
+
+at Context.<anonymous> (test/1140.test.js:8:5)
+FAILED TEST LOG
+  ✘ Your script file should have the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/cat[ \t]+\$1[ \t]*\|[ \t]*sed[ \t]+('|")[ \t]*s\/catnip\/dogchow\/[ \t]*;[ \t]*s\/cat\/dog\/[ \t]*;[ \t]*s\/meow\/woof\/[ \t]*;?[ \t]*\1[ \t]*;?\s*$/g.test(scriptFile))
+
+at Context.<anonymous> (test/1140.test.js:8:5)
+FAILED TEST LOG
+  ✘ You should enter the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(correctFlag && filteredCommand[0] === './translate.sh' && (filteredCommand[1] === 'kitty_ipsum_1.txt' || filteredCommand[1] === './kitty_ipsum_1.txt') && filteredCommand[2].op === '|' && filteredCommand[3] === 'grep' && (filteredCommand[4] === 'dog[a-z]*|woof[a-z]*' || filteredCommand[4] === 'woof[a-z]*|dog[a-z]*' || filteredCommand[4].pattern === 'dog[a-z]*|woof[a-z]*' || filteredCommand[4].pattern === 'woof[a-z]*|dog[a-z]*'))
+
+at Context.<anonymous> (test/1150.test.js:10:5)
+FAILED TEST LOG
+  ✘ Your script file should have the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/cat[ \t]+\$1[ \t]*\|[ \t]*sed[ \t]+('|")[ \t]*s\/catnip\/dogchow\/g[ \t]*;[ \t]*s\/cat\/dog\/g[ \t]*;[ \t]*s\/meow\/woof\/g[ \t]*;?[ \t]*\1[ \t]*;?\s*$/g.test(scriptFile))
+
+at Context.<anonymous> (test/1170.test.js:8:5)
+FAILED TEST LOG
+  ✘ Your script file should have the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/cat[ \t]+\$1[ \t]*\|[ \t]*sed[ \t]+('|")[ \t]*s\/catnip\/dogchow\/g[ \t]*;[ \t]*s\/cat\/dog\/g[ \t]*;[ \t]*s\/meow\/woof\/g[ \t]*;?[ \t]*\1[ \t]*;?\s*$/g.test(scriptFile))
+
+at Context.<anonymous> (test/1170.test.js:8:5)
+FAILED TEST LOG
+  ✘ Your script file should have the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/cat[ \t]+\$1[ \t]*\|[ \t]*sed[ \t]+('|")[ \t]*s\/catnip\/dogchow\/g[ \t]*;[ \t]*s\/cat\/dog\/g[ \t]*;[ \t]*s\/meow\/woof\/g[ \t]*;?[ \t]*\1[ \t]*;?\s*$/g.test(scriptFile))
+
+at Context.<anonymous> (test/1170.test.js:8:5)
+FAILED TEST LOG
+  ✘ Your script file should have the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(test1 && test2)
+
+at Context.<anonymous> (test/1190.test.js:10:5)
+FAILED TEST LOG
+  ✘ Your script file should have the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(test1 && test2)
+
+at Context.<anonymous> (test/1190.test.js:10:5)
+FAILED TEST LOG
+  ✘ Your script file should have the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(test1 && test2)
+
+at Context.<anonymous> (test/1190.test.js:10:5)
+FAILED TEST LOG
+  ✘ Your script file should have the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(test1 && test2)
+
+at Context.<anonymous> (test/1190.test.js:10:5)
+FAILED TEST LOG
+  ✘ Your script file should have the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(test1 && test2)
+
+at Context.<anonymous> (test/1190.test.js:10:5)
+FAILED TEST LOG
+  ✘ Your script file should have the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(test1 && test2)
+
+at Context.<anonymous> (test/1190.test.js:10:5)
+FAILED TEST LOG
+  ✘ Your script file should have the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(test1 && test2)
+
+at Context.<anonymous> (test/1190.test.js:10:5)

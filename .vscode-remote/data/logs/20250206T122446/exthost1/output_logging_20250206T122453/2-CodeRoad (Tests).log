@@ -1,0 +1,64 @@
+FAILED TEST LOG
+  ✘ You should enter the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(correctCommand && /Number of times meow or meowzer appears:/.test(fileContents))
+
+at Context.<anonymous> (test/540.test.js:15:5)
+FAILED TEST LOG
+  ✘ You should enter the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(correctFlags && filteredCommand[0] === 'grep' && (filteredCommand[1] === 'meow[a-z]*' || filteredCommand[1].pattern === 'meow[a-z]*') && filteredCommand[2] === 'kitty_ipsum_1.txt')
+
+at Context.<anonymous> (test/550.test.js:10:5)
+FAILED TEST LOG
+  ✘ You should enter the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(lastCommand[0] === 'sed' && lastCommand[1] === 's/free/f233/' && lastCommand[2] === 'name.txt')
+
+at Context.<anonymous> (test/650.test.js:8:5)
+FAILED TEST LOG
+  ✘ You should enter the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(lastCommand[0] === 'sed' && lastCommand[1] === 's/free/f233/' && lastCommand[2] === 'name.txt')
+
+at Context.<anonymous> (test/650.test.js:8:5)
+FAILED TEST LOG
+  ✘ You should enter the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(lastCommand[0] === 'sed' && lastCommand[1] === 's/free/f233/' && lastCommand[2] === 'name.txt')
+
+at Context.<anonymous> (test/650.test.js:8:5)
+FAILED TEST LOG
+  ✘ You should enter the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(lastCommand[0] === 'sed' && lastCommand[1] === 's/freecodecamp/f233C0d3C@mp/' && lastCommand[2] === 'name.txt')
+
+at Context.<anonymous> (test/660.test.js:8:5)
+FAILED TEST LOG
+  ✘ You should enter the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(lastCommand[0] === 'sed' && lastCommand[1] === 's/freecodecamp/f233C0d3C@mp/i' && lastCommand[2].op === '<' && lastCommand[3] === 'name.txt')
+
+at Context.<anonymous> (test/675.test.js:8:5)
+FAILED TEST LOG
+  ✘ You should enter the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(lastCommand[0] === 'cat' && (lastCommand[1] === 'name.txt' || lastCommand[1] === './name.txt') && lastCommand[2].op === '|' && lastCommand[3] === 'sed' && lastCommand[4] === 's/freecodecamp/f233C0d3C@mp/i')
+
+at Context.<anonymous> (test/680.test.js:8:5)

@@ -1,0 +1,80 @@
+FAILED TEST LOG
+  ✘ You should enter the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(correctCommand && /hello bash/.test(fileContents))
+
+at Context.<anonymous> (test/20.test.js:10:5)
+FAILED TEST LOG
+  ✘ You should enter the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(correctCommand)
+
+at Context.<anonymous> (test/70.test.js:9:5)
+FAILED TEST LOG
+  ✘ You should enter the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(correctCommand && /bash: bad_command: command not found/.test(fileContents))
+
+at Context.<anonymous> (test/80.test.js:10:5)
+FAILED TEST LOG
+  ✘ You should enter the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(nextCommand[0] === 'read' && nextCommand[1] === 'NAME')
+
+at Context.<anonymous> (test/100.test.js:8:5)
+FAILED TEST LOG
+  ✘ You should enter the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(lastCommand[0] === 'echo' && lastCommand[1] === '' && /echo[ \t]+\$NAME/g.test(lastCommandAsTyped))
+
+at Context.<anonymous> (test/115.test.js:9:5)
+FAILED TEST LOG
+  ✘ You should enter the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(lastCommand[0] === 'echo' && lastCommand[1] === '' && /echo[ \t]+\$NAME/g.test(lastCommandAsTyped))
+
+at Context.<anonymous> (test/115.test.js:9:5)
+FAILED TEST LOG
+  ✘ You should enter the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(lastCommand[0] === 'echo' && lastCommand[1] === '' && /echo[ \t]+\$NAME/g.test(lastCommandAsTyped))
+
+at Context.<anonymous> (test/115.test.js:9:5)
+FAILED TEST LOG
+  ✘ You should enter the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(lastCommand[0] === 'echo' && lastCommand[1] === '' && /echo[ \t]+\$NAME/g.test(lastCommandAsTyped))
+
+at Context.<anonymous> (test/115.test.js:9:5)
+FAILED TEST LOG
+  ✘ You should enter the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(nextCommand[0] === 'cat' && (nextCommand[1] === undefined || nextCommand[1].op === ';'))
+
+at Context.<anonymous> (test/178.test.js:8:5)
+FAILED TEST LOG
+  ✘ You should enter the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(lastCommand[0] === 'cat' && lastCommand[1].op === '<' && lastCommand[2] === 'name.txt')
+
+at Context.<anonymous> (test/190.test.js:8:5)

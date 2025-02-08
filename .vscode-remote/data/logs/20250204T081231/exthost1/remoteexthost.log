@@ -1,0 +1,21 @@
+2025-02-04 08:12:38.868 [info] Extension host with pid 126 started
+2025-02-04 08:12:38.868 [error] Error: EEXIST: file already exists, open '/workspace/.vscode-remote/data/User/workspaceStorage/58a833f8/vscode.lock'
+2025-02-04 08:12:38.870 [info] Lock '/workspace/.vscode-remote/data/User/workspaceStorage/58a833f8/vscode.lock': Could not acquire lock, checking if the file is stale.
+2025-02-04 08:12:38.871 [info] Lock '/workspace/.vscode-remote/data/User/workspaceStorage/58a833f8/vscode.lock': The pid 122 appears to be gone.
+2025-02-04 08:12:38.871 [info] Lock '/workspace/.vscode-remote/data/User/workspaceStorage/58a833f8/vscode.lock': Deleting a stale lock.
+2025-02-04 08:12:38.877 [info] Lock '/workspace/.vscode-remote/data/User/workspaceStorage/58a833f8/vscode.lock': Lock acquired.
+2025-02-04 08:12:39.188 [info] ExtensionService#_doActivateExtension gitpod.gitpod-web, startup: false, activationEvent: 'onAuthenticationRequest:gitpod'
+2025-02-04 08:12:39.188 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-02-04 08:12:39.849 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-02-04 08:12:40.091 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-02-04 08:12:40.091 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-02-04 08:12:40.829 [info] Eager extensions activated
+2025-02-04 08:12:40.829 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-02-04 08:12:40.829 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-02-04 08:12:40.830 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onStartupFinished', root cause: GitHub.vscode-pull-request-github
+2025-02-04 08:12:41.071 [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: false, activationEvent: 'onStartupFinished'
+2025-02-04 08:12:41.499 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-02-04 08:12:41.499 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-02-04 08:12:41.499 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-02-04 08:12:53.700 [info] ExtensionService#_doActivateExtension CodeRoad.coderoad, startup: false, activationEvent: 'onCommand:coderoad.start'
+2025-02-04 08:14:45.460 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'

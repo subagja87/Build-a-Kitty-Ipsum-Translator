@@ -1,0 +1,200 @@
+FAILED TEST LOG
+  ✘ You should enter the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(directoryContents.includes('script.sh') && lastCommand[0] === 'touch' && /script\.sh/g.test(lastCommand[1]))
+
+at Context.<anonymous> (test/210.test.js:9:5)
+FAILED TEST LOG
+  ✘ Your script should have the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/read[ \t]+NAME[ \t]*;?\s*$/g.test(scriptFile))
+
+at Context.<anonymous> (test/240.test.js:8:5)
+FAILED TEST LOG
+  ✘ Your script should have the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/read[ \t]+NAME[ \t]*;?\s*$/g.test(scriptFile))
+
+at Context.<anonymous> (test/240.test.js:8:5)
+FAILED TEST LOG
+  ✘ Your script should have the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/read[ \t]+NAME[ \t]*;?\s*$/g.test(scriptFile))
+
+at Context.<anonymous> (test/240.test.js:8:5)
+FAILED TEST LOG
+  ✘ Your script should "echo" the suggested text correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/^\s*echo[ \t]+('|"|)Hello[ \t]+\$NAME\1[ \t]*;?\s*$/gm.test(scriptFile))
+
+at Context.<anonymous> (test/250.test.js:8:5)
+FAILED TEST LOG
+  ✘ Your script should "echo" the suggested text correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/^\s*echo[ \t]+('|"|)Hello[ \t]+\$NAME\1[ \t]*;?\s*$/gm.test(scriptFile))
+
+at Context.<anonymous> (test/250.test.js:8:5)
+FAILED TEST LOG
+  ✘ Your script should "echo" the suggested text correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/^\s*echo[ \t]+('|"|)Hello[ \t]+\$NAME\1[ \t]*;?\s*$/gm.test(scriptFile))
+
+at Context.<anonymous> (test/250.test.js:8:5)
+FAILED TEST LOG
+  ✘ Your script should "echo" the suggested text correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/^\s*echo[ \t]+('|"|)Hello[ \t]+\$NAME\1[ \t]*;?\s*$/gm.test(scriptFile))
+
+at Context.<anonymous> (test/250.test.js:8:5)
+FAILED TEST LOG
+  ✘ Your script should "echo" the suggested text correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/^\s*echo[ \t]+('|"|)Hello[ \t]+\$NAME\1[ \t]*;?\s*$/gm.test(scriptFile))
+
+at Context.<anonymous> (test/250.test.js:8:5)
+FAILED TEST LOG
+  ✘ Your script should "echo" the suggested text correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/^\s*echo[ \t]+('|"|)Hello[ \t]+\$NAME\1[ \t]*;?\s*$/gm.test(scriptFile))
+
+at Context.<anonymous> (test/250.test.js:8:5)
+FAILED TEST LOG
+  ✘ Your script should have the suggested command added correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/bad_command[ \t]*;?\s*$/g.test(scriptFile))
+
+at Context.<anonymous> (test/260.test.js:8:5)
+FAILED TEST LOG
+  ✘ Your script should have the suggested command added correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/bad_command[ \t]*;?\s*$/g.test(scriptFile))
+
+at Context.<anonymous> (test/260.test.js:8:5)
+FAILED TEST LOG
+  ✘ Your script should have the suggested command added correctly
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(/bad_command[ \t]*;?\s*$/g.test(scriptFile))
+
+at Context.<anonymous> (test/260.test.js:8:5)
+FAILED TEST LOG
+  ✘ You should enter the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(lastCommand[0] === 'echo' && /^\w+$/.test(lastCommand[1]) && lastCommand[2].op === '|' && lastCommand[3] === './script.sh' && (lastCommand[4] === undefined || lastCommand[4].op === ';'))
+
+at Context.<anonymous> (test/270.test.js:8:5)
+FAILED TEST LOG
+  ✘ You should enter the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(lastCommand[0] === 'echo' && /^\w+$/.test(lastCommand[1]) && lastCommand[2].op === '|' && lastCommand[3] === './script.sh' && (lastCommand[4] === undefined || lastCommand[4].op === ';'))
+
+at Context.<anonymous> (test/270.test.js:8:5)
+FAILED TEST LOG
+  ✘ You should enter the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(lastCommand[0] === 'echo' && /^\w+$/.test(lastCommand[1]) && lastCommand[2].op === '|' && lastCommand[3] === './script.sh' && (lastCommand[4] === undefined || lastCommand[4].op === ';'))
+
+at Context.<anonymous> (test/270.test.js:8:5)
+FAILED TEST LOG
+  ✘ You should enter the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(lastCommand[0] === 'echo' && /^\w+$/.test(lastCommand[1]) && lastCommand[2].op === '|' && lastCommand[3] === './script.sh' && (lastCommand[4] === undefined || lastCommand[4].op === ';'))
+
+at Context.<anonymous> (test/270.test.js:8:5)
+FAILED TEST LOG
+  ✘ You should enter the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(lastCommand[0] === 'echo' && /^\w+$/.test(lastCommand[1]) && lastCommand[2].op === '|' && lastCommand[3] === './script.sh' && (lastCommand[4] === undefined || lastCommand[4].op === ';'))
+
+at Context.<anonymous> (test/270.test.js:8:5)
+FAILED TEST LOG
+  ✘ You should enter the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(lastCommand[0] === 'echo' && /^\w+$/.test(lastCommand[1]) && lastCommand[2].op === '|' && lastCommand[3] === './script.sh' && (lastCommand[4] === undefined || lastCommand[4].op === ';'))
+
+at Context.<anonymous> (test/270.test.js:8:5)
+FAILED TEST LOG
+  ✘ You should enter the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(lastCommand[0] === 'echo' && /^\w+$/.test(lastCommand[1]) && lastCommand[2].op === '|' && lastCommand[3] === './script.sh' && (lastCommand[4] === undefined || lastCommand[4].op === ';'))
+
+at Context.<anonymous> (test/270.test.js:8:5)
+FAILED TEST LOG
+  ✘ You should enter the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(lastCommand[0] === 'echo' && /^\w+$/.test(lastCommand[1]) && lastCommand[2].op === '|' && lastCommand[3] === './script.sh' && (lastCommand[4] === undefined || lastCommand[4].op === ';'))
+
+at Context.<anonymous> (test/270.test.js:8:5)
+FAILED TEST LOG
+  ✘ You should enter the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(lastCommand[0] === 'echo' && /^\w+$/.test(lastCommand[1]) && lastCommand[2].op === '|' && lastCommand[3] === './script.sh' && (lastCommand[4] === undefined || lastCommand[4].op === ';'))
+
+at Context.<anonymous> (test/270.test.js:8:5)
+FAILED TEST LOG
+  ✘ You should enter the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(lastCommand[0] === 'echo' && /^\w+$/.test(lastCommand[1]) && lastCommand[2].op === '|' && lastCommand[3] === './script.sh' && (lastCommand[4] === undefined || lastCommand[4].op === ';'))
+
+at Context.<anonymous> (test/270.test.js:8:5)
+FAILED TEST LOG
+  ✘ You should enter the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(lastCommand[0] === 'echo' && /^\w+$/.test(lastCommand[1]) && lastCommand[2].op === '|' && lastCommand[3] === './script.sh' && (lastCommand[4] === undefined || lastCommand[4].op === ';'))
+
+at Context.<anonymous> (test/270.test.js:8:5)
+FAILED TEST LOG
+  ✘ You should enter the suggested command
+
+AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:
+
+assert(lastCommand[0] === 'echo' && /^\w+$/.test(lastCommand[1]) && lastCommand[2].op === '|' && lastCommand[3] === './script.sh' && (lastCommand[4] === undefined || lastCommand[4].op === ';'))
+
+at Context.<anonymous> (test/270.test.js:8:5)

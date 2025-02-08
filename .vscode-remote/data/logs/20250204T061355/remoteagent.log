@@ -1,0 +1,52 @@
+2025-02-04 06:13:55.876 [info] 
+
+
+
+
+2025-02-04 06:13:55.896 [info] Extension host agent started.
+2025-02-04 06:13:55.963 [info] Extension 'gitpod.gitpod-theme' v0.0.2 is already installed. Use '--force' option to update to latest version or provide '@<version>' to install a specific version, for example: 'gitpod.gitpod-theme@1.2.3'.
+2025-02-04 06:13:55.964 [info] Extension 'github.vscode-pull-request-github' v0.102.0 is already installed. Use '--force' option to update to latest version or provide '@<version>' to install a specific version, for example: 'github.vscode-pull-request-github@1.2.3'.
+2025-02-04 06:13:55.964 [info] Installing extensions...
+2025-02-04 06:13:55.996 [info] Extension 'coderoad.coderoad' v0.19.4 is already installed. Use '--force' option to update to latest version or provide '@<version>' to install a specific version, for example: 'coderoad.coderoad@1.2.3'.
+2025-02-04 06:13:58.552 [info] [192.168.171.139][03134552][ManagementConnection] New connection established.
+2025-02-04 06:13:59.333 [info] [192.168.95.201][407b431e][ExtensionHostConnection] New connection established.
+2025-02-04 06:13:59.338 [info] [192.168.95.201][407b431e][ExtensionHostConnection] <122> Launched Extension Host Process.
+2025-02-04 06:19:47.170 [info] [192.168.171.139][407b431e][ExtensionHostConnection] The client has reconnected.
+2025-02-04 06:32:28.923 [info] [192.168.171.139][03134552][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2025-02-04 06:36:22.443 [info] [192.168.171.139][03134552][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2025-02-04 06:36:22.443 [info] [192.168.95.201][407b431e][ExtensionHostConnection] The client has reconnected.
+2025-02-04 06:36:23.079 [info] [192.168.69.10][03134552][ManagementConnection] The client has reconnected.
+2025-02-04 06:42:10.787 [info] [192.168.69.10][03134552][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2025-02-04 06:43:48.696 [info] [192.168.69.10][03134552][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2025-02-04 06:43:48.696 [info] [192.168.171.139][03134552][ManagementConnection] The client has reconnected.
+2025-02-04 06:43:49.365 [info] [192.168.69.10][407b431e][ExtensionHostConnection] The client has reconnected.
+2025-02-04 06:47:54.840 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2025-02-04 06:47:54.842 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2025-02-04 06:49:35.864 [info] [192.168.69.10][407b431e][ExtensionHostConnection] The client has reconnected.
+2025-02-04 06:49:59.004 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2025-02-04 06:49:59.004 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2025-02-04 06:55:58.864 [info] [192.168.69.10][407b431e][ExtensionHostConnection] The client has reconnected.
+2025-02-04 07:03:28.915 [info] [192.168.69.10][407b431e][ExtensionHostConnection] The client has reconnected.
+2025-02-04 07:03:33.313 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2025-02-04 07:03:33.314 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2025-02-04 07:04:41.755 [info] [192.168.69.10][03134552][ManagementConnection] The client has reconnected.
+2025-02-04 07:04:47.032 [info] [192.168.69.10][407b431e][ExtensionHostConnection] The client has reconnected.
+2025-02-04 07:08:05.846 [info] [192.168.69.10][03134552][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2025-02-04 07:09:42.419 [info] [192.168.69.10][03134552][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2025-02-04 07:09:42.419 [info] [192.168.171.139][407b431e][ExtensionHostConnection] The client has reconnected.
+2025-02-04 07:09:43.256 [info] [192.168.95.201][03134552][ManagementConnection] The client has reconnected.
+2025-02-04 07:17:07.501 [info] [192.168.95.201][03134552][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2025-02-04 07:41:35.801 [info] [192.168.95.201][03134552][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2025-02-04 07:41:35.802 [info] [192.168.171.139][03134552][ManagementConnection] The client has reconnected.
+2025-02-04 07:41:36.477 [info] [192.168.95.201][407b431e][ExtensionHostConnection] The client has reconnected.
+2025-02-04 07:50:33.844 [info] [192.168.171.139][407b431e][ExtensionHostConnection] The client has reconnected.
+2025-02-04 07:50:34.526 [info] [192.168.69.10][03134552][ManagementConnection] The client has reconnected.
+2025-02-04 07:55:58.440 [info] [192.168.69.10][407b431e][ExtensionHostConnection] The client has reconnected.
+2025-02-04 07:55:59.351 [info] [192.168.69.10][03134552][ManagementConnection] The client has reconnected.
+2025-02-04 07:57:20.594 [info] [192.168.171.139][407b431e][ExtensionHostConnection] The client has reconnected.
+2025-02-04 07:57:21.292 [info] [192.168.69.10][03134552][ManagementConnection] The client has reconnected.
+2025-02-04 08:02:58.780 [info] [192.168.69.10][03134552][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2025-02-04 08:02:59.540 [info] [192.168.69.10][03134552][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2025-02-04 08:02:59.540 [info] [192.168.69.10][03134552][ManagementConnection] The client has reconnected.
+2025-02-04 08:03:00.133 [info] [192.168.69.10][407b431e][ExtensionHostConnection] The client has reconnected.
+2025-02-04 08:03:34.229 [info] [192.168.69.10][03134552][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...

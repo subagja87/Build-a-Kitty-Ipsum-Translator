@@ -1,0 +1,40 @@
+2025-02-07 22:22:28.580 [info] 
+
+
+
+
+2025-02-07 22:22:28.607 [info] Extension host agent started.
+2025-02-07 22:22:28.661 [info] Extension 'gitpod.gitpod-theme' v0.0.2 is already installed. Use '--force' option to update to latest version or provide '@<version>' to install a specific version, for example: 'gitpod.gitpod-theme@1.2.3'.
+2025-02-07 22:22:28.661 [info] Extension 'github.vscode-pull-request-github' v0.102.0 is already installed. Use '--force' option to update to latest version or provide '@<version>' to install a specific version, for example: 'github.vscode-pull-request-github@1.2.3'.
+2025-02-07 22:22:30.753 [info] [192.168.95.201][cd3bb3e1][ManagementConnection] New connection established.
+2025-02-07 22:22:31.510 [info] [192.168.95.201][934838bb][ExtensionHostConnection] New connection established.
+2025-02-07 22:22:31.515 [info] [192.168.95.201][934838bb][ExtensionHostConnection] <117> Launched Extension Host Process.
+2025-02-07 22:35:20.823 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2025-02-07 22:35:20.825 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2025-02-07 22:40:36.516 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2025-02-07 22:40:36.517 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2025-02-07 22:46:28.568 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2025-02-07 22:46:28.569 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2025-02-07 22:46:49.273 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2025-02-07 22:46:49.274 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2025-02-07 22:47:51.629 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2025-02-07 22:47:51.630 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2025-02-07 23:03:36.253 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2025-02-07 23:03:36.254 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2025-02-07 23:45:39.435 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2025-02-07 23:45:39.436 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2025-02-07 23:50:39.506 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2025-02-07 23:50:39.506 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2025-02-07 23:53:32.821 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2025-02-07 23:53:32.821 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2025-02-07 23:58:57.913 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2025-02-07 23:58:57.914 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2025-02-08 00:01:06.594 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2025-02-08 00:01:06.594 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2025-02-08 00:09:29.289 [info] [192.168.95.201][cd3bb3e1][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-02-08 00:09:29.374 [info] [192.168.95.201][934838bb][ExtensionHostConnection] <117> Extension Host Process exited with code: 0, signal: null.
+2025-02-08 00:09:33.305 [info] [192.168.69.10][b5d4c175][ManagementConnection] New connection established.
+2025-02-08 00:09:33.977 [info] [192.168.171.139][020628a3][ExtensionHostConnection] New connection established.
+2025-02-08 00:09:33.987 [info] [192.168.171.139][020628a3][ExtensionHostConnection] <15710> Launched Extension Host Process.
+2025-02-08 00:09:41.482 [info] [192.168.69.10][b5d4c175][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-02-08 00:09:41.583 [info] [192.168.171.139][020628a3][ExtensionHostConnection] <15710> Extension Host Process exited with code: 0, signal: null.
